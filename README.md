@@ -1,0 +1,2 @@
+# BitmapLrucache
+异步加载图片使用了的lrucache缓存 asynctask异步加载
